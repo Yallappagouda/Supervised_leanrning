@@ -54,6 +54,6 @@ Feel free to open issues or submit pull requests to improve the project!
 ## 📬 Contact
 
 Made with ❤️ by [Yallappagouda](https://github.com/Yallappagouda)  
-For any queries: yallappagouda@example.com
+For any queries: patilyallappagouda2004@gmail.com
 
 
